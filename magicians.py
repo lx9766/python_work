@@ -8,3 +8,4 @@ for magician in magicians:
 print(magicians)
 print(magicians)
 print(magicians)
+print(magicians)
