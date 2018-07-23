@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e82f7f80-1e2a-4c81-8623-51713d932e8e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/motorcycles.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bicycles.py" beforeDir="false" afterPath="$PROJECT_DIR$/bicycles.py" afterDir="false" />
-    </list>
+    <list default="true" id="e82f7f80-1e2a-4c81-8623-51713d932e8e" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,6 +13,7 @@
     <SUITE FILE_PATH="coverage/python_work$myfirst.coverage" NAME="myfirst Coverage Results" MODIFIED="1532349323579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_work$motorcycles.coverage" NAME="motorcycles Coverage Results" MODIFIED="1532351724142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_work$birthday.coverage" NAME="birthday Coverage Results" MODIFIED="1532349287252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_work$3_4_7.coverage" NAME="3.4-7 Coverage Results" MODIFIED="1532353328819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_work$name.coverage" NAME="name Coverage Results" MODIFIED="1532281229054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_work$bicycles.coverage" NAME="bicycles Coverage Results" MODIFIED="1532350267749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
@@ -40,11 +37,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="motorcycles.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="motorcycles.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/motorcycles.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="640">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="324">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="3.4-7.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/3.4-7.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="416">
+              <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -70,6 +76,8 @@
         <option value="$PROJECT_DIR$/venv/bicycles.py" />
         <option value="$PROJECT_DIR$/bicycles.py" />
         <option value="$PROJECT_DIR$/motorcycles.py" />
+        <option value="$PROJECT_DIR$/3。4-7.py" />
+        <option value="$PROJECT_DIR$/3.4-7.py" />
       </list>
     </option>
   </component>
@@ -125,7 +133,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.motorcycles">
+  <component name="RunManager" selected="Python.3.4-7">
+    <configuration name="3.4-7" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3.4-7.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="bicycles" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_work" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -202,39 +229,20 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="name" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python_work" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/name.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <list>
       <item itemvalue="Python.myfirst" />
       <item itemvalue="Python.birthday" />
-      <item itemvalue="Python.name" />
       <item itemvalue="Python.bicycles" />
       <item itemvalue="Python.motorcycles" />
+      <item itemvalue="Python.3.4-7" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.3.4-7" />
         <item itemvalue="Python.motorcycles" />
         <item itemvalue="Python.bicycles" />
         <item itemvalue="Python.myfirst" />
         <item itemvalue="Python.birthday" />
-        <item itemvalue="Python.name" />
       </list>
     </recent_temporary>
   </component>
@@ -356,8 +364,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/motorcycles.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="640">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="324">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.4-7.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
