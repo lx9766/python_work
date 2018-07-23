@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e82f7f80-1e2a-4c81-8623-51713d932e8e" name="Default" comment="2018.7.24.0:17">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/python_work.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="e82f7f80-1e2a-4c81-8623-51713d932e8e" name="Default" comment="2018.7.24.0:28">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,7 +37,7 @@
         <entry file="file://$PROJECT_DIR$/magicians.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="288">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+              <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -56,6 +52,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="lx9766 &lt;2667313114@qq.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -321,12 +322,25 @@
       <option name="project" value="LOCAL" />
       <updated>1532362516076</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="2018.7.24.0:17">
+      <created>1532363253647</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1532363253647</updated>
+    </task>
+    <task id="LOCAL-00012" summary="2018.7.24.0:28">
+      <created>1532363338036</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1532363338036</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5015625" side_tool="true" visible="true" weight="0.3287234" />
@@ -362,7 +376,9 @@
     <MESSAGE value="2018.7.23.23:02" />
     <MESSAGE value="2018.7.23.23:08" />
     <MESSAGE value="2018.7.23.22:34" />
-    <option name="LAST_COMMIT_MESSAGE" value="2018.7.23.22:34" />
+    <MESSAGE value="2018.7.24.0:17" />
+    <MESSAGE value="2018.7.24.0:28" />
+    <option name="LAST_COMMIT_MESSAGE" value="2018.7.24.0:28" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/3.4-7.py">
@@ -530,7 +546,7 @@
     <entry file="file://$PROJECT_DIR$/magicians.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
         </state>
       </provider>
     </entry>
