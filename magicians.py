@@ -7,3 +7,4 @@ for magician in magicians:
     print("I can't wait to see your next trick,"+magician.title())
 print(magicians)
 print(magicians)
+print(magicians)
